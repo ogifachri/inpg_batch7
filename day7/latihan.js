@@ -2,6 +2,7 @@ var name = "aaa";
 var age = 16;   
 var money = 400000;
 
+// Koding untuk day 7
 if (name === "") {
     console.log("Anda tidak boleh masuk!")
 } else {
